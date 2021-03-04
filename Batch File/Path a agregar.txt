@@ -1,0 +1,15 @@
+python -c "import sys; print('\n'.join(sys.path))"
+
+C:\Users\<Tu usuario>\anaconda3\python38.zip
+C:\Users\<Tu usuario>\anaconda3\DLLs
+C:\Users\<Tu usuario>\anaconda3\lib
+C:\Users\<Tu usuario>\anaconda3
+C:\Users\<Tu usuario>\anaconda3\lib\site-packages
+C:\Users\<Tu usuario>\anaconda3\lib\site-packages\win32
+C:\Users\<Tu usuario>\anaconda3\lib\site-packages\win32\lib
+C:\Users\<Tu usuario>\anaconda3\lib\site-packages\Pythonwin
+
+No en la lista
+C:\Users\<Tu usuario>\anaconda3\Scripts
+C:\Users\<Tu usuario>\anaconda3\Library\usr\bin
+C:\Users\<Tu usuario>\anaconda3\Library\bin
